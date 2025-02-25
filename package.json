@@ -1,13 +1,15 @@
 {
-  "name": "react-template",
+  "name": "goiteens-events-js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitryberesten.github.io/react-template/",
+  "homepage": "https://serhii-zamorylo23.github.io/goiteens-events-js/",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-icons": "^5.5.0",
     "react-scripts": "^5.0.1",
+    "styled-components": "^6.1.15",
     "web-vitals": "^2.1.3"
   },
   "scripts": {
