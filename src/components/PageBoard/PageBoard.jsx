@@ -24,8 +24,9 @@ const Liststyle=styled.ul`
     margin-top: 40px;
     border-radius: 5px;
     flex-wrap: wrap ;
-    padding: 1px 30px 60px 30px;
+    padding: 40px 30px 60px 30px;
     justify-content: space-between;
+    row-gap: 40px;
 `
 
 const PageBoard=({events})=>{
