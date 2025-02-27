@@ -19,9 +19,13 @@ const Liststyle=styled.ul`
     display: flex;
     margin: 0 auto;
     width: 93%;
-    height: 700px;
-    background: gray;
-    flex-wrap: wrap;
+    background: #80808078;
+    border: 3px solid gray;
+    margin-top: 40px;
+    border-radius: 5px;
+    flex-wrap: wrap ;
+    padding: 1px 30px 60px 30px;
+    justify-content: space-between;
 `
 
 const PageBoard=({events})=>{
